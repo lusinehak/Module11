@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Rest Assured" thread_count="3" parallel="true">
+    <test name="Rest">
+        <classes>
+            <class name ="RestAssuredTest"/>
+        </classes>
+    </test>
+
+</suite>
